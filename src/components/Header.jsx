@@ -1,10 +1,12 @@
-// Следы удаления лишних импортов и исправления структуры кода в компоненте Header.jsx
-//dastan gau
 import React from 'react';
 import '../styles/Header.css';
 import { Link } from 'react-router-dom';
 import logo from "../assets/logoimg.png"
 import Home from '../pages/Home';
+
+
+
+
 
 function Header() {
   return (
