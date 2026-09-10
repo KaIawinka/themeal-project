@@ -44,6 +44,7 @@
 }
 
 .hero-button {
+  display: inline-block;
   min-width: 112px;
   padding: 11px 20px;
   border: 0;
@@ -52,6 +53,7 @@
   font: inherit;
   font-size: 16px;
   cursor: pointer;
+  text-decoration: none;
   transition: filter .2s, transform .2s;
 }
 
