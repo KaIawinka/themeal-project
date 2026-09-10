@@ -29,6 +29,12 @@
   width: auto;
 }
 
+.logoImg {
+  width: 90px;
+  height: 70px;
+  object-fit: contain;
+}
+
 .logo-text {
   color: #fff;
   font-family: Arial, Helvetica, sans-serif;
@@ -76,7 +82,4 @@
   outline: none;
   background-color: #ffffff;
   color: #333333;
-}
-.logoImg {
-    width: 400px;
 }
